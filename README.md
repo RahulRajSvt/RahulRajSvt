@@ -1,8 +1,3 @@
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
 
 - 👋 Hi, I’m Rahul
 - 👀 I’m interested in Data Analytics, getting the right data and right insights is the biggest advantage one can have, I am curious about how data drives today's world and how can we make data more useful and align with business stratergy and Vision.
@@ -13,3 +8,28 @@
 RahulRajSvt/RahulRajSvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## :hammer_and_wrench: LANGUAGES AND TOOLS :
+
+<div>
+  <a href="https://www.python.org/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PySpark-as?style=plastic&logo=Apache%20Spark&logoColor=pink&labelColor=e&color=blue">
+  </a><a> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-as?style=plastic&logo=PostgreSQL&logoColor=pink&labelColor=e&color=blue"> </a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/Python-as?style=plastic&logo=Python&logoColor=pink&labelColor=e&color=blue"></a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tableau-as?style=plastic&logo=Tableau&logoColor=pink&labelColor=e&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PowerBI-as?style=plastic&logo=PowerBI&logoColor=pink&labelColor=e&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excel-as?style=plastic&logo=Microsoft%20Excel&logoColor=pink&labelColor=e&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-as?style=plastic&logo=Pandas&logoColor=pink&labelColor=e&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-as?style=plastic&logo=Numpy&logoColor=pink&labelColor=e&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter%20Notebook-as?style=plastic&logo=Jupyter&logoColor=pink&labelColor=e&color=blue">
+
+
+
+  
+
+
+
+
+
+</div>
+
