@@ -29,6 +29,11 @@ You can click the Preview link to take a look at your changes.
 <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-as?style=plastic&logo=Pandas&logoColor=pink&labelColor=e&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-as?style=plastic&logo=Numpy&logoColor=pink&labelColor=e&color=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter%20Notebook-as?style=plastic&logo=Jupyter&logoColor=pink&labelColor=e&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/AWS%20S3-as?style=plastic&logo=Amazon%20S3&logoColor=pink&labelColor=e&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Lambda-as?style=plastic&logo=Amazon%20Lambda&logoColor=pink&labelColor=e&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Redshift-as?style=plastic&logo=Amazon%20Redshift&logoColor=pink&labelColor=e&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/AWS%20Cloud-as?style=plastic&logo=Amazon%20AWS&logoColor=pink&labelColor=e&color=blue">
+
 
 
 
