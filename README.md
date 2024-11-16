@@ -3,6 +3,9 @@
 - 📫 Reach me on rahul.raj.svt@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid traveller, love being close to nature, love rain and love animals
+ <div align="center">
+  <img src="./bird-15708.gif" alt="Demo GIF" width="150" />
+</div>
 <!---
 RahulRajSvt/RahulRajSvt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
