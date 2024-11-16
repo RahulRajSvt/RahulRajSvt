@@ -2,7 +2,6 @@
 # Hi there. I'm Rahul 👋
 
 I am a Data Consultant with an interest in Analytics, Data & Software Engineering. I would love to connect 🙂
-- 👀 I’m interested in Data Analytics, getting the right data and right insights is the biggest advantage one can have, I am curious about how data drives today's world and how can we make data more useful and align with business strategy and Vision.
 - 📫 Reach me on rahul.raj.svt@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid traveller, love being close to nature, love rain and love animals
@@ -49,13 +48,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RahulRajSvt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=RahulRajSvt&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-
-
-  
-
-
-
 
 
 </div>
